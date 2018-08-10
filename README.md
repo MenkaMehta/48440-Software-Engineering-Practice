@@ -1,2 +1,2 @@
 # 48440_Software-Engineering-Practice
-Autumn 2016 - The Smart Trolley Management Project
+Autumn 2016 - IOT Project (Smart Trolleys and Bays Management System)
